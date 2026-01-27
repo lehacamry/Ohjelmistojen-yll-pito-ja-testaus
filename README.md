@@ -6,7 +6,7 @@ This repository contains all exercises for the course
 Each assignment is located in its own directory and can be run and tested independently.
 
 ## Assignments
-- Assignment I – TBD
+- [Exercises. I - Markdown HTML](./Exercises.%20I%20-%20Markdown%20HTML).
 - [Exercises. II – Unit testing](./Exercises.%20II%20-%20Unit%20testing)
 - Assignment III – TBD
 
