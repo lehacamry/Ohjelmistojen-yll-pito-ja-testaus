@@ -8,7 +8,8 @@ Each assignment is located in its own directory and can be run and tested indepe
 ## Assignments
 - [Exercises. I - Markdown HTML](./Exercises.%20I%20-%20Markdown%20HTML)
 - [Exercises. II – Unit testing](./Exercises.%20II%20-%20Unit%20testing)
-- Assignment III – TBD
+- [Exericies. III - Integration Testing](./Exericies%20III%20-%20Integration%20Testing)
+
 
 
 ## How to use
