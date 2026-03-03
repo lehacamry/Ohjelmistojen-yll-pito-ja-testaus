@@ -7,10 +7,10 @@ library and integrate it into a Node.js application.
 
 The objectives were:
 
--   Initialize a Node.js project\
--   Install and configure the Winston logging library\
--   Integrate logging into the application\
--   Capture different log levels (info, warn, error)\
+-   Initialize a Node.js project
+-   Install and configure the Winston logging library
+-   Integrate logging into the application
+-   Capture different log levels (info, warn, error)
 -   Implement automated tests using Mocha and Chai
 
 ------------------------------------------------------------------------
@@ -24,7 +24,7 @@ git init
 npm init -y
 ```
 
-### 2. Install Winston as dependency
+### 2. Install Winston library
 
 ``` bash
 npm install winston@3.11.0
@@ -54,9 +54,9 @@ The logger is configured in `src/logger.js`.
 
 The following transports are used:
 
--   **Console transport** -- displays all log messages in the terminal\
+-   **Console transport** -- displays all log messages in the terminal
 -   **File transport (`error.log`)** -- stores only `error` level
-    messages\
+    messages
 -   **File transport (`combined.log`)** -- stores all log levels
     (`info`, `warn`, `error`, etc.)
 
@@ -68,7 +68,7 @@ Log files are stored in the `logs/` directory.
 
 Automated tests were implemented using:
 
--   **Mocha** (test runner)\
+-   **Mocha** (test runner)
 -   **Chai** (assertion library)
 
 Run tests with:
@@ -77,7 +77,7 @@ Run tests with:
 npm test
 ```
 
-All tests completed succesfully \
+All tests completed succesfully 
 The tests verify that:
 
 -   The logger instance is properly created\
@@ -90,9 +90,9 @@ The tests verify that:
 
 This project was tested with:
 
--   Node.js v24.x.x\
--   Winston 3.11.0\
--   Mocha 11.7.5\
+-   Node.js v24.x.x
+-   Winston 3.11.0
+-   Mocha 11.7.5
 -   Chai 6.2.2
 
 You can check installed versions on your enviroment  with next command:
