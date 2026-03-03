@@ -9,7 +9,7 @@ Each assignment is located in its own directory and can be run and tested indepe
 - [Exercises. I - Markdown HTML](./Exercises.%20I%20-%20Markdown%20HTML)
 - [Exercises. II – Unit testing](./Exercises.%20II%20-%20Unit%20testing)
 - [Exericies. III - Integration Testing](./Exericies%20III%20-%20Integration%20Testing)
-
+- [Exericies. VI - Logging(TASK1 and TASK2](./Exericies%20VI%20-%20ILogging)
 
 
 ## How to use
